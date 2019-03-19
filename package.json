@@ -1,0 +1,14 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-bigtimer": "~2.1.8",
+        "node-red-contrib-delta-timed": "~0.3.0",
+        "node-red-contrib-interval-length": "0.0.3",
+        "node-red-contrib-timecheck": "~1.1.0",
+        "node-red-dashboard": "~2.13.2",
+        "node-red-node-pi-gpiod": "0.0.10"
+    }
+}
